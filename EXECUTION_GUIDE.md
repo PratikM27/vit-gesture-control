@@ -102,7 +102,7 @@ A webcam window will open with a control panel overlay.
 | 3 | **Fist** ✊ | **Neutral / Stop** | No action — pause cursor control |
 | 4 | **Pinch** 🤏 | **Drag** | Holds left mouse button; move hand to drag |
 | 5 | **Three Fingers Up** 🤟 | **Scroll up** | Scrolls up per trigger |
-| 6 | **Three Fingers Down** | **Scroll down** | Scrolls down per trigger |
+| 6 | **Three Fingers Down**🤙 | **Scroll down** | Scrolls down per trigger |
 
 > **Note:** This mapping is defined in `config.py` under `ACTION_MAP` — you can customize it.
 
